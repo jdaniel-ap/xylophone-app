@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone
 
 A new Flutter project.
 
@@ -11,6 +11,6 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# How It Will look 👇 
+
+![Screenshot 2021-06-19 134241](https://user-images.githubusercontent.com/55774240/122640581-f3d4d300-d11d-11eb-9aa6-b81dc388d676.png)
